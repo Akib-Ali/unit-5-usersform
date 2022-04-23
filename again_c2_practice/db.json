@@ -1,0 +1,48 @@
+{
+  "students": [
+    {
+      "first_name": "Akib",
+      "last_name": "Ali",
+      "email": "akib7599@gmail.com",
+      "gender": "male",
+      "age": "23",
+      "tenth_score": "777",
+      "twelth_score": "888",
+      "preferred_branch": "science",
+      "id": 1
+    },
+    {
+      "first_name": "Anjuman",
+      "last_name": "Ara",
+      "email": "anjuma@gmail.com",
+      "gender": "female",
+      "age": "21",
+      "tenth_score": "500",
+      "twelth_score": "400",
+      "preferred_branch": "science",
+      "id": 2
+    },
+    {
+      "first_name": "Anjuman",
+      "last_name": "Ara",
+      "email": "anjuma@gmail.com",
+      "gender": "female",
+      "age": "21",
+      "tenth_score": "500",
+      "twelth_score": "400",
+      "preferred_branch": "science",
+      "id": 3
+    },
+    {
+      "first_name": "Rajiv",
+      "last_name": "Patkah",
+      "email": "rajib@patk.com",
+      "gender": "male",
+      "age": "21",
+      "tenth_score": "5666",
+      "twelth_score": "888",
+      "preferred_branch": "science",
+      "id": 4
+    }
+  ]
+}
